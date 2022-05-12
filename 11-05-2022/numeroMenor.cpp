@@ -20,6 +20,5 @@ int main () {
         cout << "El segundo nùmero es menor.";
     }
 
-
     return 0;
 }
